@@ -1,6 +1,5 @@
 .env
 data/
-outputs/geotiff/
 outputs/figures/
 __pycache__/
 .ipynb_checkpoints/
