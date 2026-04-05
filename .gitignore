@@ -1,0 +1,10 @@
+.env
+data/
+outputs/geotiff/
+outputs/figures/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+.DS_Store
+*.log
